@@ -2,7 +2,7 @@
 - 👀 I’m interested in All science and technology projects.
 - 🌱 I’m currently learning Software Engineering.
 - 💞️ I’m looking to collaborate on Artificial intelligence development,But I have no experience.
-- 📫 How to reach me by 1248302938@qq.com
+- 📫 How to reach me by homeqiw@163.com
 
 <!---
 HomeQi/HomeQi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
