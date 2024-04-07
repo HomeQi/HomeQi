@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HomeQi
 - 👀 I’m interested in All science and technology projects.
 - 🌱 I’m currently learning Software Engineering.
-- 💞️ I’m looking to collaborate on Artificial intelligence development,But I have no experience.
+- 💞️ I’m looking to collaborate on Java or C# project.
 - 📫 How to reach me by homeqiw@163.com
 
 <!---
